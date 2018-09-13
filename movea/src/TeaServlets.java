@@ -67,6 +67,9 @@ public class TeaServlets
       Map parameterMap = new HashMap();
       Map parametros = request.getParameterMap();
       System.out.println("PARAMETROS .... ");
+      System.out.println("PARAMETROS .... ");
+      System.out.println("PARAMETROS .... ");
+      System.out.println("PARAMETROS .... ");
       for (Iterator iterator = parametros.keySet().iterator(); iterator.hasNext();)
       {
         Object key_ = iterator.next();
