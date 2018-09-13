@@ -8,7 +8,7 @@
 <body>
 		<form action="TeaServlets" target="_blank">
 		<input type="hidden" name="reportID" value="1" >
-			<h2 align="center">MOVIMIENTO ENTRE ALMACENES </h2>
+			<h2 align="center">MOVIMIENTO ENTRE ALMACENES  PRUEBA DE PAOLA</h2>
 				<fieldset class="collapseClosed">
 					<legend>Ingresar traspaso</legend>
 						<table>
